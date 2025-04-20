@@ -1,1 +1,1 @@
-# mcp-cli-test
+# mcp-client-test-ts
